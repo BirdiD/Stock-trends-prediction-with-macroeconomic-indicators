@@ -1,1 +1,2 @@
-We predict stock 6 month performance and build a portfolio based on those predictions.
+We predict stock 6 month performance and build a portfolio based on those predictions. 
+You will find 3 notebooks. One for preprocessing steps and where we build the GRU and LSTM models and made the predictions. The two remaining notebooks are the analysis of the predictions.
